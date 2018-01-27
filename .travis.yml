@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+- 6.0.0
+branches:
+  only:
+  - source
+
+install: npm install
+
+before_script:
+- git config --global user.name "Ryan Filho"
+- git config --global user.email "ryanfilhoryanfilho@gmail.com"
+- sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+
+script: npm run build
