@@ -72,13 +72,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-## theme: landscape
 theme: cactus-white
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://__GITHUB_TOKEN__@github.com/RyanFilho/4hackers.github.io.git
-  branch: master
+# deploy:
+#   type: git
+#   repo: https://__GITHUB_TOKEN__@github.com/RyanFilho/4hackers.github.io.git
+#   branch: master
   

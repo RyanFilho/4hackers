@@ -19,6 +19,6 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "build": "hexo clean && hexo generate && hexo deploy"
+    "build": "hexo clean && hexo generate"
   }
 }

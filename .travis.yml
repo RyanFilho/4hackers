@@ -4,9 +4,17 @@ node_js:
 
 install: npm install
 
-before_script:
-- git config --global user.name "Ryan Filho"
-- git config --global user.email "ryanfilhoryanfilho@gmail.com"
-- sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+# before_script:
+# - git config --global user.name "Ryan Filho"
+# - git config --global user.email "ryanfilhoryanfilho@gmail.com"
 
 script: npm run build
+
+deploy:
+  provider: pages
+  local-dir: public
+  skip-cleanup: true
+  github-token: $__GITHUB_TOKEN__  # Set in travis-ci.org dashboard, marked secure
+  keep-history: true
+  target-branch: gh-pages
+  fqdn: 4hackers.org
