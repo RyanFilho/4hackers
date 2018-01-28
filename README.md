@@ -1,5 +1,7 @@
 # [4hackers](http://4hackers.org) ![build status](https://travis-ci.org/RyanFilho/4hackers.svg?branch=master)
-A organization for hackers.
+For now, just a blog for any people post about tech, contribute on dev and have learn.
+
+Open for ideas, contribution and partnerships.
 
 ### To do list (Please, help me =])
 - [x] Create the blog.
@@ -7,5 +9,5 @@ A organization for hackers.
 - [ ] Create a good README.md
 - [ ] Choose a good theme
 - [ ] Setup Google Analitics
+- [ ] Create a contribuition guide
 - [ ] ...
-
