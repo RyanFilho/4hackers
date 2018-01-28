@@ -7,7 +7,7 @@ tags:
 
 ### eae hackudo,
 
-Este blog tem o intuito de permitir qualquer um de ensinar/compartilhar algo sobre tecnologia, está sendo mantido no github, o deploy e build está sendo feito pelo travis-ci e hospedado no github-pages. Fundado por mim, Ryan Filho, porém totalmente aberto a novas ideias, contribuições e parcerias.
+Este blog tem o intuito de permitir qualquer um de ensinar/compartilhar algo sobre tecnologia, está sendo mantido no github, o deploy e build está sendo feito pelo travis-ci e hospedado no github-pages. Totalmente aberto a novas ideias, contribuições e parcerias.
 
 ### Conhecimentos Nescessários
   

@@ -79,6 +79,6 @@ theme: cactus-white
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://__GITHUB_TOKEN__@github.com/RyanFilho/ryanfilho.github.io.git
+  repo: https://__GITHUB_TOKEN__@github.com/RyanFilho/4hackers.github.io.git
   branch: master
   
