@@ -1,3 +1,6 @@
 [submodule "themes/cactus-white"]
 	path = themes/cactus-white
 	url = https://github.com/sergodeeva/cactus-white.git
+[submodule "themes/minos"]
+	path = themes/minos
+	url = https://github.com/ppoffice/hexo-theme-minos.git
