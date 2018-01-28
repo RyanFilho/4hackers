@@ -3,6 +3,8 @@ For now, just a blog for any people post about tech, contribute on dev and have 
 
 Open for ideas, contribution and partnerships.
 
+You can start [here](http://4hackers.org/2018/01/27/4hackers/).
+
 ### To do list (Please, help me =])
 - [x] Create the blog.
 - [x] Setup continuous integration with Travis-CI
