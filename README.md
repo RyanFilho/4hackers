@@ -2,8 +2,8 @@
 A organization for hackers.
 
 ### To do list (Please, help me =])
-- [x] Create blog.
-- [x] Setup Continuous Integration
+- [x] Create the blog.
+- [x] Setup continuous integration with Travis-CI
 - [ ] Create a good README.md
 - [ ] Choose a good theme
 - [ ] Setup Google Analitics
